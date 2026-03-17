@@ -35,7 +35,7 @@ ML system for early sepsis detection applied to 20,317 real ICU patients. XGBoos
 
 ---
 
-### ⚡ SafeFlow 3.0 — Hybrid Streaming & Batch Risk Pipeline
+### ⚡ SafeFlow — Hybrid Streaming & Batch Risk Pipeline
 > Redpanda · Faust · PostgreSQL 16 · FastAPI · Next.js · Docker · GitHub Actions · Redis
 
 Production-grade financial risk scoring pipeline processing **10,000+ events at 5,285 msg/s** with ~20ms stream latency. Covers the full data engineering lifecycle: event ingestion, Pydantic validation (7 rejection codes), idempotent upserts, streaming feature store, daily batch recompute, JWT-secured REST API, and an analyst-facing Next.js dashboard.
